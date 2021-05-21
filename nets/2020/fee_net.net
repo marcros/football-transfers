@@ -1,0 +1,1043 @@
+*Vertices	451
+	1 "1. FC Köln"
+	2 "Borussia Dortmund"
+	3 "Eintracht Frankfurt"
+	4 "SV Werder Bremen"
+	5 "Celta de Vigo"
+	6 "Bayern Munich"
+	7 "VfB Stuttgart"
+	8 "Bayer 04 Leverkusen"
+	9 "Feyenoord Rotterdam"
+	10 "PSV Eindhoven"
+	11 "Ajax Amsterdam"
+	12 "FC Groningen"
+	13 "FC Barcelona"
+	14 "Sparta Rotterdam"
+	15 "RC Strasbourg Alsace"
+	16 "AS Monaco"
+	17 "Paris Saint-Germain"
+	18 "SL Benfica"
+	19 "Norwich City"
+	20 "Middlesbrough FC"
+	21 "FC Internazionale"
+	22 "AS Roma"
+	23 "Aston Villa"
+	24 "Leeds United"
+	25 "Chelsea FC"
+	26 "Southampton FC"
+	27 "Sheffield United"
+	28 "Manchester City"
+	29 "Coventry City"
+	30 "Manchester United"
+	31 "Sheffield Wednesday"
+	32 "Arsenal FC"
+	33 "Crystal Palace"
+	34 "Nottingham Forest"
+	35 "Cagliari Calcio"
+	36 "Atalanta BC"
+	37 "UC Sampdoria"
+	38 "SS Lazio"
+	39 "Udinese Calcio"
+	40 "Juventus FC"
+	41 "Tottenham Hotspur"
+	42 "Blackburn Rovers"
+	43 "Queens Park Rangers"
+	44 "Liverpool FC"
+	45 "Everton FC"
+	46 "West Ham United"
+	47 "Newcastle United"
+	48 "Borussia Mönchengladbach"
+	49 "SC Freiburg"
+	50 "FC Schalke 04"
+	51 "Sevilla FC"
+	52 "Olympique Marseille"
+	53 "AS Saint-Étienne"
+	54 "SC Heerenveen"
+	55 "Athletic Bilbao"
+	56 "Stade Rennais FC"
+	57 "Sporting CP"
+	58 "Real Sociedad"
+	59 "Atlético Madrid"
+	60 "Leicester City"
+	61 "Olympique Lyon"
+	62 "RC Lens"
+	63 "SSC Napoli"
+	64 "Boavista FC"
+	65 "Arminia Bielefeld"
+	66 "Derby County"
+	67 "FC Porto"
+	68 "AZ Alkmaar"
+	69 "Bologna FC 1909"
+	70 "Hertha BSC"
+	71 "VfL Wolfsburg"
+	72 "Real Valladolid CF"
+	73 "Barnsley FC"
+	74 "Villarreal CF"
+	75 "Willem II Tilburg"
+	76 "SC Braga"
+	77 "Hellas Verona"
+	78 "FC Metz"
+	79 "FC Nantes"
+	80 "Fortuna Sittard"
+	81 "LOSC Lille"
+	82 "FC Paços de Ferreira"
+	83 "Fulham FC"
+	84 "FC Lorient"
+	85 "CA Osasuna"
+	86 "Vitória Guimarães SC"
+	87 "West Bromwich Albion"
+	88 "Birmingham City"
+	89 "CD Nacional"
+	90 "OGC Nice"
+	91 "Wolverhampton Wanderers"
+	92 "ACF Fiorentina"
+	93 "AC Milan"
+	94 "Levante UD"
+	95 "1.FSV Mainz 05"
+	96 "Preston North End"
+	97 "Stoke City"
+	98 "Reading FC"
+	99 "Burnley FC"
+	100 "Cardiff City"
+	101 "Brighton & Hove Albion"
+	102 "Cádiz CF"
+	103 "Getafe CF"
+	104 "Heracles Almelo"
+	105 "Torino FC"
+	106 "VVV-Venlo"
+	107 "Genoa CFC"
+	108 "TSG 1899 Hoffenheim"
+	109 "Swansea City"
+	110 "Montpellier HSC"
+	111 "Stade Brest 29"
+	112 "Dijon FCO"
+	113 "FC Augsburg"
+	114 "Granada CF"
+	115 "Huddersfield Town"
+	116 "FK Rostov"
+	117 "FK Krasnodar"
+	118 "Spartak Moscow"
+	119 "Rubin Kazan"
+	120 "Dynamo Moscow"
+	121 "Lokomotiv Moscow"
+	122 "Zenit St. Petersburg"
+	123 "CSKA Moscow"
+	124 "Stade Reims"
+	125 "Ural Yekaterinburg"
+	126 "Elche CF"
+	127 "US Sassuolo"
+	128 "FK Ufa"
+	129 "Rotherham United"
+	130 "SD Eibar"
+	131 "Brentford FC"
+	132 "SCO Angers"
+	133 "FC Crotone"
+	134 "RB Leipzig"
+	135 "Benevento Calcio"
+	136 "Akhmat Grozny"
+	137 "Arsenal Tula"
+	138 "CD Tondela"
+	139 "SD Huesca"
+	140 "FC Emmen"
+	141 "Parma Calcio 1913"
+	142 "Nîmes Olympique"
+	143 "1.FC Union Berlin"
+	144 "FC Sochi"
+	145 "Spezia Calcio"
+	146 "Rotor Volgograd"
+	147 "FC Famalicão"
+	148 "FC Internazionale_seller"
+	149 "Sevilla FC_seller"
+	150 "Real Madrid_seller"
+	151 "Bayer 04 Leverkusen_seller"
+	152 "Borussia Dortmund_seller"
+	153 "Bayern Munich_seller"
+	154 "Bröndby IF_seller"
+	155 "Juventus FC_seller"
+	156 "Twente FC_seller"
+	157 "Ajax Amsterdam_seller"
+	158 "Sparta R._seller"
+	159 "De Graafschap Doetinchem_seller"
+	160 "Hajduk Split_seller"
+	161 "Real Zaragoza_seller"
+	162 "Willem II Tilburg_seller"
+	163 "Manchester City_seller"
+	164 "AS Monaco_seller"
+	165 "Hamburger SV_seller"
+	166 "Boavista FC_seller"
+	167 "Manchester United_seller"
+	168 "Aston Villa_seller"
+	169 "Leicester City_seller"
+	170 "Southampton FC_seller"
+	171 "Red Star_seller"
+	172 "SS Lazio_seller"
+	173 "VfB Stuttgart_seller"
+	174 "Liverpool FC_seller"
+	175 "Arsenal FC_seller"
+	176 "Charlton Athletic_seller"
+	177 "Chelsea FC_seller"
+	178 "Swansea City_seller"
+	179 "Crystal Palace_seller"
+	180 "Olympique Marseille_seller"
+	181 "Brentford FC_seller"
+	182 "Derby County_seller"
+	183 "Wigan Athletic_seller"
+	184 "RSC Anderlecht_seller"
+	185 "Brescia Calcio_seller"
+	186 "Nottm Forest_seller"
+	187 "Torino Calcio_seller"
+	188 "Tottenham Hotspur_seller"
+	189 "UC Sampdoria_seller"
+	190 "Everton FC_seller"
+	191 "CSKA Moscow_seller"
+	192 "Newcastle United_seller"
+	193 "Birmingham City_seller"
+	194 "Middlesbrough FC_seller"
+	195 "Norwich City_seller"
+	196 "Malmö FF_seller"
+	197 "Watford FC_seller"
+	198 "Huddersfield Town_seller"
+	199 "Sunderland AFC_seller"
+	200 "QPR_seller"
+	201 "Udinese Calcio_seller"
+	202 "Wolverhampton Wanderers_seller"
+	203 "AFC Bournemouth_seller"
+	204 "Stoke City_seller"
+	205 "Silkeborg IF_seller"
+	206 "HNK Rijeka_seller"
+	207 "Genoa 1893_seller"
+	208 "AC Fiorentina_seller"
+	209 "Spartak Moscow_seller"
+	210 "Lyngby BK_seller"
+	211 "E. Frankfurt_seller"
+	212 "FC Schalke 04_seller"
+	213 "1. FC Köln_seller"
+	214 "Partizan_seller"
+	215 "SV Werder Bremen_seller"
+	216 "Hertha BSC_seller"
+	217 "F. Düsseldorf_seller"
+	218 "BSC Young Boys_seller"
+	219 "Corinthians_seller"
+	220 "VfL Bochum_seller"
+	221 "1.FC Kaiserslautern_seller"
+	222 "Ajax Cape Town_seller"
+	223 "FC Barcelona_seller"
+	224 "PSV Eindhoven_seller"
+	225 "Bristol City_seller"
+	226 "West Ham United_seller"
+	227 "Oxford United_seller"
+	228 "Cardiff City_seller"
+	229 "Atlético Madrid_seller"
+	230 "SL Benfica_seller"
+	231 "São Paulo_seller"
+	232 "Aberdeen FC_seller"
+	233 "Real Sociedad_seller"
+	234 "Legia Warszawa_seller"
+	235 "CD Tenerife_seller"
+	236 "Real Valladolid CF_seller"
+	237 "KAA Gent_seller"
+	238 "FC St. Pauli_seller"
+	239 "Hannover 96_seller"
+	240 "Galatasaray_seller"
+	241 "Sint-Truiden_seller"
+	242 "AS Roma_seller"
+	243 "AS Saint-Étienne_seller"
+	244 "1.FC Union Berlin_seller"
+	245 "FC Zürich_seller"
+	246 "Doncaster Rovers_seller"
+	247 "Club Brugge_seller"
+	248 "FC Porto_seller"
+	249 "Sporting CP_seller"
+	250 "SSC Napoli_seller"
+	251 "Lech Poznan_seller"
+	252 "Atalanta BC_seller"
+	253 "Palmeiras_seller"
+	254 "River Plate_seller"
+	255 "Paris Saint-Germain_seller"
+	256 "Barnsley FC_seller"
+	257 "Standard Liège_seller"
+	258 "SC Freiburg_seller"
+	259 "Grêmio_seller"
+	260 "VfL Wolfsburg_seller"
+	261 "Real Betis Balompié_seller"
+	262 "1.FSV Mainz 05_seller"
+	263 "Slavia Prague_seller"
+	264 "FC Augsburg_seller"
+	265 "Olympiacos_seller"
+	266 "FC Basel_seller"
+	267 "AEK Athens_seller"
+	268 "Valencia CF_seller"
+	269 "Boca Juniors_seller"
+	270 "Flamengo_seller"
+	271 "Santos FC_seller"
+	272 "Vit. Guimarães_seller"
+	273 "Helsingborg_seller"
+	274 "G. Bordeaux_seller"
+	275 "Cagliari Calcio_seller"
+	276 "Celtic_seller"
+	277 "SC Braga_seller"
+	278 "Stade Rennais FC_seller"
+	279 "Heart of Midl._seller"
+	280 "NAC Breda_seller"
+	281 "Peñarol_seller"
+	282 "Górnik Zabrze_seller"
+	283 "KRC Genk_seller"
+	284 "FC Utrecht_seller"
+	285 "Olympique Lyon_seller"
+	286 "Loko Moscow_seller"
+	287 "Atlético-MG_seller"
+	288 "Racing Club_seller"
+	289 "San Lorenzo_seller"
+	290 "Estudiantes_seller"
+	291 "Levante UD_seller"
+	292 "Torpedo Moscow_seller"
+	293 "SC Heerenveen_seller"
+	294 "PAOK Salonika_seller"
+	295 "Peterborough United_seller"
+	296 "Independiente_seller"
+	297 "Hellas Verona_seller"
+	298 "FC Groningen_seller"
+	299 "UD Las Palmas_seller"
+	300 "CA Rosario_seller"
+	301 "OGC Nice_seller"
+	302 "Cukaricki_seller"
+	303 "Tigres UANL_seller"
+	304 "Panathinaikos_seller"
+	305 "FC Metz_seller"
+	306 "RCD Espanyol Barcelona_seller"
+	307 "Bologna FC 1909_seller"
+	308 "Fenerbahce_seller"
+	309 "West Bromwich Albion_seller"
+	310 "Stabæk Fotball_seller"
+	311 "LASK_seller"
+	312 "Fortuna Sittard_seller"
+	313 "CA Talleres_seller"
+	314 "RSC Charleroi_seller"
+	315 "Internacional_seller"
+	316 "Dinamo Zagreb_seller"
+	317 "US Lecce_seller"
+	318 "CD Cruz Azul_seller"
+	319 "KV Mechelen_seller"
+	320 "Deportivo Alavés_seller"
+	321 "FC Toulouse_seller"
+	322 "Málaga CF_seller"
+	323 "FC Sochaux-Montbéliard_seller"
+	324 "Zenit S-Pb_seller"
+	325 "Fluminense_seller"
+	326 "U. de Chile_seller"
+	327 "AC Venezia 1907_seller"
+	328 "Lausanne-Sport_seller"
+	329 "Bodø/Glimt_seller"
+	330 "Rio Ave FC_seller"
+	331 "1.FC Magdeburg_seller"
+	332 "Elfsborg_seller"
+	333 "Aalborg BK_seller"
+	334 "FC Lorient_seller"
+	335 "Arezzo_seller"
+	336 "Association Troyes Aube Champagne_seller"
+	337 "NEC Nijmegen_seller"
+	338 "Slavia Sofia_seller"
+	339 "LOSC Lille_seller"
+	340 "Portimonense SC_seller"
+	341 "Brighton & Hove Albion_seller"
+	342 "AC Milan_seller"
+	343 "Coritiba FC_seller"
+	344 "FC Dallas_seller"
+	345 "Estoril Praia_seller"
+	346 "Villarreal CF_seller"
+	347 "Nordsjaelland_seller"
+	348 "Esbjerg fB_seller"
+	349 "Dynamo Moscow_seller"
+	350 "Northampton_seller"
+	351 "ES Sahel_seller"
+	352 "Elche CF_seller"
+	353 "Shakhtar D._seller"
+	354 "AZ Alkmaar_seller"
+	355 "CA Fénix_seller"
+	356 "KS Samara_seller"
+	357 "Stade Reims_seller"
+	358 "FC Luzern_seller"
+	359 "Livingston FC_seller"
+	360 "Amiens SC_seller"
+	361 "NK Istra_seller"
+	362 "SC Paderborn 07_seller"
+	363 "Getafe CF_seller"
+	364 "Olymp. Lyon B_seller"
+	365 "NA Hussein Dey_seller"
+	366 "RB Salzburg_seller"
+	367 "Nîmes Olympique_seller"
+	368 "Belgrano_seller"
+	369 "1º de Agosto_seller"
+	370 "Tombense_seller"
+	371 "SCO Angers_seller"
+	372 "UD Almería_seller"
+	373 "AC Pisa_seller"
+	374 "Dijon FCO_seller"
+	375 "Randers FC_seller"
+	376 "Zaglebie Lubin_seller"
+	377 "Vancouver_seller"
+	378 "Godoy Cruz_seller"
+	379 "TSG Hoffenheim_seller"
+	380 "Le Mans FC_seller"
+	381 "FC Tokyo_seller"
+	382 "Stade Brest 29_seller"
+	383 "KV Kortrijk_seller"
+	384 "Asteras Tripoli_seller"
+	385 "Cracovia_seller"
+	386 "Clermont Foot_seller"
+	387 "US Sassuolo_seller"
+	388 "Lechia Gdansk_seller"
+	389 "Houston_seller"
+	390 "Kuban Krasnodar_seller"
+	391 "Rostselmash Rostov_seller"
+	392 "Enisey Krasnoyarsk_seller"
+	393 "APOEL Nicosia_seller"
+	394 "FC Viitorul_seller"
+	395 "FK Ufa_seller"
+	396 "Botev Plovdiv_seller"
+	397 "PEC Zwolle_seller"
+	398 "B. Banja Luka_seller"
+	399 "Chamois Niort_seller"
+	400 "Soligorsk_seller"
+	401 "Spezia Calcio_seller"
+	402 "Girona FC_seller"
+	403 "RB Leipzig_seller"
+	404 "SPAL_seller"
+	405 "Carpi FC 1909_seller"
+	406 "CD Leganés_seller"
+	407 "Zenit 2 S-Pb_seller"
+	408 "CD Santa Clara_seller"
+	409 "NYCFC_seller"
+	410 "SV Sandhausen_seller"
+	411 "Bunyodkor_seller"
+	412 "Akhmat Grozny_seller"
+	413 "Norrköping_seller"
+	414 "Din. Zagreb II_seller"
+	415 "Athletico-PR_seller"
+	416 "Waasl.-Beveren_seller"
+	417 "Sarpsborg 08_seller"
+	418 "Dynamo Brest_seller"
+	419 "PFK Tambov_seller"
+	420 "Atl. Madrid B_seller"
+	421 "FCSB_seller"
+	422 "Wolfsberger AC_seller"
+	423 "Slask Wroclaw_seller"
+	424 "Diables Noirs_seller"
+	425 "Rosenborg_seller"
+	426 "Altay SK_seller"
+	427 "Três Passos_seller"
+	428 "Univ. Craiova_seller"
+	429 "Spartaks_seller"
+	430 "Preston North End_seller"
+	431 "CSKA-Sofia_seller"
+	432 "Kayserispor_seller"
+	433 "Würzb. Kickers_seller"
+	434 "FC Botosani_seller"
+	435 "KamAZ Naberezhnye Chelny_seller"
+	436 "FK Khimki_seller"
+	437 "SKA Khabarovsk_seller"
+	438 "Chaika Pes._seller"
+	439 "Veles Moskow_seller"
+	440 "Rabotnicki_seller"
+	441 "Avangard Kursk_seller"
+	442 "Arsenal Tula_seller"
+	443 "Leningradets_seller"
+	444 "FC Famalicão_seller"
+	445 "Slovácko_seller"
+	446 "Bnei Yehuda_seller"
+	447 "FK Pardubice_seller"
+	448 "A. Malagueño_seller"
+	449 "DL Pro_seller"
+	450 "NK Lokomotiva_seller"
+	451 "Valmiera_seller"
+*Edges
+	1	244	5.85
+	1	247	1.08
+	16	247	18.0
+	1	216	6.3
+	65	216	0.45
+	134	216	0.45
+	51	216	1.8
+	1	294	2.97
+	20	294	2.7
+	19	294	0.9
+	1	451	0.45
+	143	331	1.35
+	143	263	0.18
+	46	263	19.98
+	95	362	1.8
+	93	329	4.5
+	93	185	9.0
+	37	185	0.45
+	93	211	4.5
+	85	211	1.8
+	50	211	1.8
+	108	211	2.7
+	93	364	0.4320000000000001
+	93	285	0.45
+	23	285	16.56
+	59	285	1.35
+	83	285	3.78
+	90	285	6.3
+	56	285	10.8
+	91	285	1.8
+	93	184	3.15
+	56	184	23.4
+	93	149	3.15
+	17	149	5.4
+	58	149	9.0
+	93	187	0.45
+	55	187	10.8
+	135	187	0.45
+	83	187	2.25
+	63	187	1.35
+	92	327	0.63
+	92	207	9.9
+	135	207	3.6
+	21	207	7.2
+	77	207	1.8
+	40	207	16.2
+	141	207	1.35
+	72	207	1.13
+	92	254	5.4
+	92	209	4.05
+	49	209	0.405
+	92	387	23.4
+	35	387	2.7
+	21	387	18.0
+	107	387	6.3
+	16	229	7.2
+	32	229	45.0
+	8	229	2.7
+	77	229	1.62
+	40	229	9.0
+	16	151	13.95
+	25	151	72.0
+	16	337	2.25
+	75	337	0.45
+	16	230	1.35
+	147	230	0.9
+	28	230	61.2
+	111	230	1.08
+	41	230	2.7
+	16	357	11.7
+	90	357	3.6
+	22	208	14.4
+	135	208	1.08
+	35	208	11.700000000000001
+	40	208	9.0
+	22	252	11.7
+	77	252	0.9
+	60	252	21.6
+	30	252	18.9
+	51	252	4.95
+	22	223	9.9
+	147	223	0.36
+	103	223	9.0
+	40	223	64.8
+	76	223	7.2
+	18	223	1.8
+	51	223	1.35
+	74	223	2.25
+	91	223	27.0
+	22	344	0.09
+	64	344	2.25
+	22	297	2.7
+	133	297	0.9
+	22	167	13.5
+	8	167	1.53
+	46	167	1.53
+	22	150	1.8
+	32	150	1.8
+	5	150	2.25
+	3	150	0.9
+	21	150	36.0
+	103	150	1.13
+	114	150	2.25
+	94	150	3.6
+	72	150	2.7
+	51	150	12.15
+	41	150	27.0
+	74	150	1.13
+	53	265	0.54
+	44	265	11.7
+	53	277	0.36
+	13	277	27.9
+	57	277	14.4
+	53	303	4.05
+	68	332	2.34
+	54	332	0.45
+	11	284	3.83
+	12	284	0.54
+	11	347	8.1
+	37	347	5.85
+	11	215	9.9
+	11	231	14.18
+	11	226	20.25
+	19	226	2.97
+	87	226	12.249
+	136	302	0.45
+	136	394	0.45
+	136	436	0.297
+	32	374	1.8
+	56	374	12.6
+	32	270	3.6
+	32	339	23.4
+	63	339	63.0
+	137	419	0.27
+	116	419	0.63
+	137	407	0.54
+	23	175	15.66
+	70	175	0.9
+	7	175	0.225
+	23	181	27.72
+	46	181	24.75
+	23	186	14.18
+	23	180	14.22
+	6	180	7.2
+	45	180	0.243
+	81	180	0.27
+	36	177	13.5
+	59	177	31.5
+	67	177	1.8
+	63	177	1.8
+	118	177	0.27
+	36	402	0.45
+	102	402	2.43
+	139	402	1.89
+	51	402	3.6
+	36	155	8.1
+	2	155	22.5
+	107	155	16.2
+	28	155	9.0
+	110	155	5.67
+	52	155	7.2
+	56	155	1.35
+	37	155	2.07
+	36	283	9.9
+	36	286	13.05
+	36	224	8.1
+	118	224	0.63
+	145	224	1.35
+	75	224	0.18
+	36	353	0.63
+	36	189	0.54
+	135	189	1.17
+	77	189	0.675
+	105	189	8.1
+	59	449	24.3
+	59	450	3.15
+	59	268	13.5
+	24	268	27.0
+	28	268	20.7
+	74	268	5.85
+	73	385	0.72
+	73	311	0.72
+	73	174	1.26
+	100	174	1.17
+	98	174	3.51
+	27	174	23.4
+	91	174	8.82
+	122	174	10.8
+	8	221	1.8
+	8	242	23.85
+	21	242	1.35
+	114	242	3.6
+	60	242	2.7
+	17	242	0.9
+	134	242	0.9
+	127	242	8.1
+	8	276	9.9
+	8	169	1.8
+	25	169	45.18
+	6	163	40.5
+	78	163	1.8
+	83	163	1.49
+	18	163	13.5
+	6	306	8.1
+	115	306	0.63
+	135	164	2.7
+	112	164	3.06
+	78	164	4.05
+	9	164	1.98
+	111	164	0.36
+	86	164	1.08
+	135	191	0.27
+	128	191	0.243
+	135	275	0.9
+	21	275	25.2
+	145	275	0.45
+	127	275	3.6
+	135	416	0.45
+	88	232	2.03
+	34	232	2.94
+	88	168	2.49
+	88	228	2.0
+	31	228	0.495
+	88	309	0.99
+	27	309	5.85
+	42	237	0.45
+	81	237	24.3
+	42	194	0.396
+	42	338	0.099
+	64	389	0.9
+	64	271	0.45
+	18	271	5.85
+	69	431	0.45
+	69	148	0.72
+	48	148	1.08
+	107	148	17.55
+	17	148	45.0
+	141	148	7.2
+	56	148	2.25
+	37	148	0.36
+	69	279	1.8
+	2	193	20.7
+	102	193	2.43
+	48	321	8.1
+	84	321	1.8
+	142	321	0.315
+	10	321	8.1
+	62	321	0.9
+	48	409	1.62
+	48	403	1.35
+	25	403	47.7
+	83	403	1.8
+	131	350	0.99
+	131	295	5.04
+	131	220	0.54
+	101	157	0.9
+	25	157	36.0
+	13	157	18.9
+	30	157	35.1
+	101	296	4.5
+	101	328	3.6
+	101	251	9.9
+	66	251	3.87
+	113	251	1.8
+	101	234	4.95
+	101	280	1.8
+	99	341	0.99
+	80	341	0.045
+	83	341	10.53
+	87	341	0.99
+	85	352	2.48
+	85	363	1.8
+	102	363	1.8
+	72	363	0.18
+	85	233	0.225
+	24	233	18.0
+	74	233	4.5
+	89	398	0.45
+	138	365	0.16699999999999998
+	123	315	7.2
+	123	391	1.8
+	117	391	5.85
+	107	391	6.75
+	119	391	1.35
+	122	391	0.36
+	123	293	10.35
+	123	289	7.65
+	35	369	0.9
+	35	250	11.7
+	45	250	22.5
+	133	250	0.45
+	81	250	4.5
+	141	250	26.53
+	105	250	19.8
+	37	250	2.25
+	127	250	8.1
+	100	183	1.98
+	83	183	1.89
+	24	183	0.9
+	31	183	0.504
+	109	183	0.8009999999999999
+	87	183	0.99
+	5	288	0.45
+	25	278	21.6
+	84	278	2.7
+	24	278	16.72
+	90	278	0.9
+	132	278	2.7
+	108	278	0.45
+	86	278	0.27
+	29	397	1.35
+	33	262	3.15
+	49	262	0.18
+	71	262	9.0
+	33	200	16.02
+	109	200	0.25
+	33	204	0.99
+	102	300	0.54
+	147	300	0.09
+	102	235	0.9
+	114	235	4.5
+	102	161	1.08
+	126	161	4.5
+	112	203	0.9
+	28	203	40.77
+	47	203	20.03
+	34	203	4.95
+	27	203	18.45
+	112	360	2.16
+	84	360	1.8
+	56	360	13.5
+	112	218	3.6
+	90	218	5.4
+	112	399	1.8
+	112	178	2.7
+	41	178	10.89
+	120	442	1.62
+	120	316	7.65
+	130	316	1.8
+	105	316	0.9
+	120	395	4.95
+	118	395	0.9
+	120	443	0.149
+	3	342	2.7
+	61	342	18.0
+	51	342	18.9
+	105	342	2.7
+	3	298	0.9
+	70	298	3.6
+	3	158	1.8
+	3	379	2.7
+	4	379	6.3
+	7	379	3.6
+	126	322	0.45
+	126	324	0.45
+	116	324	0.27
+	141	324	4.03
+	119	324	0.45
+	45	195	24.75
+	47	195	14.85
+	45	197	19.89
+	114	197	8.1
+	74	197	16.56
+	113	210	1.17
+	113	260	6.3
+	13	253	6.3
+	133	171	0.72
+	125	171	0.27
+	133	326	2.16
+	133	317	1.35
+	140	154	0.315
+	147	448	0.45
+	147	355	2.7
+	12	417	0.99
+	27	417	1.8
+	12	162	0.33799999999999997
+	21	358	2.25
+	84	386	8.1
+	84	383	7.2
+	84	380	2.25
+	132	380	0.45
+	78	243	2.7
+	60	243	31.5
+	111	243	4.5
+	78	336	4.05
+	78	371	0.63
+	49	371	9.0
+	79	291	4.5
+	82	446	0.09
+	82	318	2.25
+	67	408	3.6
+	67	330	4.5
+	57	330	3.33
+	67	370	6.75
+	144	434	0.45
+	144	356	0.81
+	121	356	0.9
+	118	356	4.05
+	117	438	0.261
+	117	349	0.27
+	71	349	1.8
+	116	441	0.059000000000000004
+	116	418	0.113
+	116	392	0.099
+	116	381	0.72
+	116	273	2.25
+	116	413	3.38
+	116	440	0.9
+	128	390	0.63
+	9	390	0.45
+	128	437	0.243
+	146	437	0.099
+	125	437	0.14400000000000002
+	9	238	0.36
+	54	238	1.35
+	9	312	1.08
+	9	272	1.44
+	80	239	0.36
+	7	239	3.6
+	80	432	0.135
+	83	198	3.96
+	111	198	4.5
+	87	198	14.85
+	83	170	7.83
+	38	170	0.9
+	41	170	14.94
+	107	335	0.225
+	107	307	3.15
+	107	429	1.35
+	103	346	8.1
+	61	346	10.35
+	52	346	3.6
+	139	346	1.035
+	77	368	1.53
+	77	405	0.45
+	77	245	1.8
+	141	245	5.85
+	77	206	0.81
+	54	206	1.35
+	77	301	3.15
+	142	301	1.35
+	141	301	1.35
+	62	301	5.4
+	111	301	3.6
+	39	301	3.15
+	77	201	0.72
+	40	201	9.63
+	141	201	5.81
+	62	201	7.65
+	104	414	0.198
+	104	401	0.261
+	37	401	1.35
+	70	213	13.5
+	70	266	5.85
+	110	266	5.4
+	70	258	6.3
+	24	258	11.7
+	18	258	13.5
+	7	258	1.17
+	40	373	2.7
+	40	212	4.05
+	44	212	0.99
+	139	212	0.225
+	81	222	7.2
+	24	334	5.85
+	24	202	15.93
+	44	202	40.23
+	41	202	15.12
+	44	153	19.8
+	44	430	0.513
+	121	411	0.882
+	121	248	4.95
+	30	248	13.5
+	17	248	3.6
+	141	248	3.6
+	15	248	1.8
+	72	248	1.71
+	86	248	0.225
+	91	248	36.0
+	121	274	7.2
+	142	274	1.35
+	132	274	6.75
+	121	400	1.35
+	121	292	0.225
+	28	313	5.85
+	142	313	2.61
+	62	313	3.15
+	28	343	5.4
+	28	319	4.05
+	28	214	7.65
+	30	281	7.65
+	110	424	0.72
+	19	348	0.99
+	19	190	1.98
+	90	190	2.0
+	124	190	1.8
+	19	423	2.7
+	19	199	0.34700000000000003
+	34	393	0.45
+	34	196	0.603
+	34	255	4.5
+	142	225	2.7
+	142	351	0.9
+	142	425	0.9
+	90	415	7.2
+	61	426	1.35
+	61	165	0.225
+	52	152	0.9
+	4	152	3.6
+	52	427	7.2
+	10	264	7.2
+	10	433	0.45
+	141	421	11.7
+	141	378	0.9
+	141	304	0.342
+	141	314	6.75
+	141	404	3.15
+	38	404	7.2
+	39	404	0.9
+	141	428	7.65
+	96	246	1.5
+	96	375	1.35
+	43	176	1.98
+	43	359	1.98
+	43	227	2.43
+	134	179	18.0
+	134	366	26.1
+	134	299	2.25
+	15	305	9.0
+	72	269	0.45
+	72	422	3.6
+	129	192	0.248
+	146	361	0.11
+	119	333	1.8
+	119	377	2.25
+	76	447	0.9
+	76	249	2.7
+	51	249	9.45
+	87	249	7.43
+	122	249	18.27
+	49	320	3.33
+	54	396	0.135
+	54	282	1.26
+	139	406	0.9
+	18	166	1.35
+	18	219	16.2
+	18	325	2.7
+	18	259	18.0
+	18	372	21.6
+	38	308	16.65
+	51	354	10.8
+	27	182	6.94
+	109	182	0.7140000000000001
+	26	236	10.8
+	26	382	13.5
+	26	188	11.97
+	14	410	0.09
+	145	267	0.45
+	106	267	0.18
+	145	287	0.27
+	145	290	0.18899999999999997
+	145	160	2.25
+	57	444	5.85
+	57	340	0.45
+	57	261	1.94
+	105	261	6.3
+	41	261	28.8
+	111	367	0.45
+	124	172	3.78
+	124	241	0.63
+	7	241	1.53
+	124	173	3.6
+	97	256	1.98
+	105	257	4.95
+	37	310	2.25
+	127	384	1.08
+	127	420	1.17
+	127	217	2.25
+	127	388	1.35
+	125	412	0.05
+	125	435	0.23399999999999999
+	125	439	0.09
+	71	323	4.5
+	71	376	4.5
+	86	445	1.08
+	87	240	1.42
+	46	205	1.44
+	75	159	0.293
+	75	156	0.045
+	91	345	0.9
