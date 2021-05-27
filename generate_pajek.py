@@ -1,11 +1,10 @@
 import pandas as pd
 import csv
 import os
-from edgelist2pajek import edgelist_to_pajek
 
-df_all_transfers = pd.read_csv('resources/transfers_clean.csv')
-df_buyer     = pd.read_csv('resources/buyer_club_nodes.csv')
-df_seller    = pd.read_csv('resources/seller_club_nodes.csv')
+df_all_transfers = pd.read_csv('resources/transfers_clean_v2.csv')
+df_buyer     = pd.read_csv('resources/buyer_club_nodes_v2.csv')
+df_seller    = pd.read_csv('resources/seller_club_nodes_v2.csv')
 
 
 def write_pajek(filename, df):
@@ -17,10 +16,10 @@ def write_pajek(filename, df):
         print('*Vertices\t{}'.format(clubs_idx.size), file=outf)
         vert_dict = {}
         for i, c in enumerate(clubs_idx):
-            if c <= 331:
+            if c < 390:
                 club_name = df_buyer.iloc[c-1]['club_name']         
             else:
-                club_name = df_seller.iloc[c-332]['club_involved_name']+'_seller'
+                club_name = df_seller.iloc[c-390]['club_involved_name']+'_seller'
             vert_dict[c] = i+1
             print('\t{} "{}"'.format(i+1, club_name), file=outf)     
         print('*Edges', file=outf)
@@ -37,8 +36,13 @@ def generate_pajek(year_from, year_to):
     # Filter transfers depending on input
     df_transfers = df_all_transfers[(df_all_transfers['year'] >= year_from) & (df_all_transfers['year'] <= year_to)]
 
+    if year_from != year_to:
+        name = '{}-{}'.format(year_from, year_to)
+    else:
+        name = str(year_from)
+
     # Create directory if it does not exist
-    path = 'nets/{}-{}'.format(year_from, year_to)
+    path = 'nets/{}'.format(name)
     if not os.path.exists(path):
         os.mkdir(path)
 
